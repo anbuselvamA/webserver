@@ -2,7 +2,7 @@
 
 # AIM:
 
-To develop a simple webserver to serve html programming pages.
+To develop a website to display top 3 programming languages.
 
 ## DESIGN STEPS:
 
